@@ -1,0 +1,1 @@
+This is a repository to keep track of my progress while I follow Miguel's tutorial here: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
